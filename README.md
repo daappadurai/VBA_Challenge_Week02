@@ -27,8 +27,10 @@ All the green stocks except TERP did very well in 2017. These stocks can be divi
 ![2017 Stock Return](Stock_return_2017.png)
 
 ## **2018 was a bust:**
-It is interesting how the stock returns plummeted within a year. The results look grim, like a major disaster has happened within the green energy field. Might be indication of policy shifts, lack of progress or green energy idea that held so much promise in 2017 but totally failed to take off in 2018. While everyone’s heart is in the right place to invest in green energy, a lack of productivity or failure for an innovation to take off could explain the stark difference between 2017 when such innovations were expected to take off and 2018 when it failed to do so.
+It is interesting how the stock returns plummeted within a year. The results look grim, like a major disaster has happened within the green energy field. Might be indication of policy shifts or a lack of progress in green energy ideas that held so much promise in 2017 but totally failed to take off in 2018.
+
 ![2017 and 2018 Stock Return](Stock_performance_2017_2018.png)
+
 ## **Summary:**
 The green stock performance for the years 2017 and 2018 were performed. Overall the stock prices saw a boom in 2017 but a major drop happened in 2018 possibly due to major policy changes or failure to meet expectations. ENPH and FSLR have stood the test of time and have emerged to be a better stock to invest when all the industry stocks failed. It is worth probing further into these two corporations as to why they performed well and that could help us guide future investments in similar green stocks.
 
