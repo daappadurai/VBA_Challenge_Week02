@@ -2,7 +2,7 @@
 
 ## **Overview:**
 
-The goal of this project is to analyze the green stock performance for the years 2017 and 2018. The total volume of the stocks traded for each green stock and the percentage return for each stock based on the stock price at the starting of the year (jan1) and end of the year (Dec31) are calculated. All of the stocks exc The most of the stocks except ENPH and FSLR did poorly 
+The goal of this project is to analyze the green stock performance for the years 2017 and 2018. The total volume of the stocks traded for each green stock and the percentage return for each stock based on the stock price at the starting of the year (jan1) and end of the year (Dec31) are calculated. 
 
 ## **2017 was a boom:**
 All the green stocks except TERP did very well in 2017. These stocks can be divided into high return (>100%) return, medium return (<100%-20%) and low return (<20%) 
